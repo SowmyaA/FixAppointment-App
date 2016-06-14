@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Fix Appointment Table" max_length="40" name="x_17816_fix_appoin_fix_appointment_table" type="collection"/>
+</database>
