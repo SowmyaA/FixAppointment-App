@@ -12,9 +12,9 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Fix Appointment Table</mobile_title>
+        <mobile_title>Doctors</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_17816_fix_appoin_fix_appointment_table</name>
+        <name>x_17816_fix_appoin_doctors</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -24,23 +24,23 @@
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-06-14 06:42:50</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2016-06-14 06:53:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>c591fafc0fcc6200ab9acdbce1050e42</sys_id>
+        <sys_domain_path/>
+        <sys_id>0814bef00f00a200ab9acdbce1050e9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Fix Appointment Table</sys_name>
+        <sys_name>Doctors</sys_name>
         <sys_overrides/>
         <sys_package display_value="Fix Appointment" source="x_17816_fix_appoin">e781b63c0fcc6200ab9acdbce1050e64</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Fix Appointment">e781b63c0fcc6200ab9acdbce1050e64</sys_scope>
-        <sys_update_name>sys_app_module_c591fafc0fcc6200ab9acdbce1050e42</sys_update_name>
+        <sys_update_name>sys_app_module_0814bef00f00a200ab9acdbce1050e9e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-06-14 06:42:50</sys_updated_on>
+        <sys_updated_on>2016-06-14 06:53:42</sys_updated_on>
         <timeline_page/>
-        <title>Fix Appointment Table</title>
+        <title>Doctors</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

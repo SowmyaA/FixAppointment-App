@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-14 06:42:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6491bafc0fcc6200ab9acdbce1050e70</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_17816_fix_appoin_fix_appointment_table.x_17816_fix_appoin.user</sys_name>

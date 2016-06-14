@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Doctors" max_length="40" name="x_17816_fix_appoin_doctors" type="collection">
+        <element label="Available From" mandatory="true" max_length="40" name="available_from" type="glide_date_time"/>
+        <element display="true" label="Available Till" mandatory="true" max_length="40" name="available_till" type="glide_date_time"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
